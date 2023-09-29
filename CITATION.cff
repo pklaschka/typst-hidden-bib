@@ -1,0 +1,27 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: typst-hidden-bib
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Zuri
+    family-names: Klaschka
+    name-suffix: '(they/them, she/her)'
+repository-code: 'https://github.com/pklaschka/typst-hidden-bib'
+repository-artifact: >-
+  https://github.com/typst/packages/tree/main/packages/preview/hidden-bib
+abstract: >-
+  Create hidden bibliographies or bibliographies with
+  unmentioned (hidden) citations in Typst.
+keywords:
+  - Typst
+  - bibliography
+  - hidden
+  - cite
+  - citation
+  - nocite
+license: MIT
