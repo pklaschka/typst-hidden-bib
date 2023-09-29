@@ -1,0 +1,23 @@
+hidden-bib:
+  type: software
+  title: hidden-bib
+  author: Zuri Klaschka
+  date: 2023-09-29
+  url:
+    value: https://github.com/pklaschka/typst-hidden-bib
+    date: 2023-09-29
+
+example1:
+  type: article
+  title: Example 1
+  date: 2023-09-29
+  author:
+    - Max Mustermann
+    - John Doe
+
+example2:
+  type: article
+  title: Example 2
+  date: 2023-09-29
+  author:
+    - Peter Parker
