@@ -1,2 +1,5 @@
+# OS-generated
+.DS_Store
+
 # generated from VSCode extension
 lib.pdf
