@@ -2,6 +2,8 @@
 
 == Hidden Bibliographies
 
+#outline()
+
 In some documents, such as a letter, you may want to cite a reference without printing a bibliography.
 
 This can easily be achieved by wrapping your `bibliography(...)` with the `hidden-bibliography` function after importing the `hidden-bib` package. @hidden-bib
@@ -27,3 +29,7 @@ The code then looks like this:
 #hidden-bibliography(
 	bibliography("refs.yml")
 )
+
+== Another section that appears in the outline
+
+#lorem(30)
